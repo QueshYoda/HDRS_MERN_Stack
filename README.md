@@ -79,7 +79,7 @@ Bu platform, üç farklı kullanıcı rolü için zengin bir özellik seti sunar
 ### 1. Projeyi Klonlayın
 
 ```bash
-git clone https://github.com/kullaniciadiniz/proje-repo.git
+git clone [https://github.com/QueshYoda/HDRS_MERN_Stack.git]
 cd proje-repo
 ```
 
